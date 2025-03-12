@@ -1,0 +1,53 @@
+*:root{
+  background-color: rgba(178, 195, 210, 0.693);
+  height: 100%;
+  width: 100%;
+}
+html.body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+
+}
+.A{
+  background-color:rgb(176, 234, 234);
+  padding: 50px;
+  border-radius: 40px;
+  border-style: solid;
+  border-color: rgba(36, 0, 0, 0.355);
+  font-size: large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+.info{
+background-color:aliceblue;
+
+padding: 20px;
+border-radius: 40px;
+border-radius: 1px solid black;
+margin-top: 20px;
+
+}
+.home{
+  background-color: aliceblue;
+  padding: 40px;
+  border-radius: 40px;
+  border-radius: 1px solid black;
+  margin-top: 200px;
+}
+.input input{
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-top: 10px;
+  
+}
+.input button{
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-top: 10px;
+  background-color: rgb(176, 234, 234);
+}
